@@ -60,10 +60,12 @@ Si ce n'est pas déjà fait : https://github.com
 
 ### 2.3 Configurer votre fork
 
-#### Configuration General
+**Configuration Generale**  
+
 ![General](./tuto1.png "General")
 
-#### Activer GitHub Pages
+** Activer GitHub Pages**  
+
 ![GitHub Pages](./tuto2.png "GitHub Pages")
 
 **💡 Note :** Pour synchroniser plus tard → bouton "Sync fork"
@@ -115,7 +117,7 @@ Si ce n'est pas déjà fait : https://github.com
 #### ✅ Tester vos pages
 1. **Aller sur :** votre site (lien dans Settings → GitHub Pages)
 2. **Vérifier :** l'affichage des pages
-3. **Si problème :** modifier → commit → push
+3. **Si problème :** sur votre PC : modifier → commit → push
 4. **⏱️ Patience :** la mise à jour peut prendre du temps
 
 #### ✅ Synchroniser votre fork
@@ -149,5 +151,5 @@ Votre contribution est maintenant entre les mains d'Enno pour validation !
 
 ## 📞 Besoin d'aide ?
 
-- Discord d'Enno pour questions techniques
+- Sur Discord : https://discord.com/channels/509396702663278592/1404841577402077332
 - Documentation GitHub pour les détails Git
