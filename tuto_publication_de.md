@@ -1,4 +1,4 @@
-# Schnelleinführung zum Veröffentlichen Ihres "Tutorials"
+# Schnellanleitung zum Veröffentlichen Ihres "Tutorials"
 
 ## 📋 Überblick
 
