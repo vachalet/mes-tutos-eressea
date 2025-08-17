@@ -1,3 +1,7 @@
+---
+title: "Tuto gh"
+date: 2025-08-17
+---
 # Tuto rapide pour publier son "tuto"
 
 ## 📋 Vue d'ensemble
