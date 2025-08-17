@@ -1,5 +1,5 @@
 ---
-title: "Tuto gh"
+title: "Tuto gh DE"
 date: 2025-08-17
 ---
 # Schnellanleitung zum Veröffentlichen Ihres „Tutorials"
