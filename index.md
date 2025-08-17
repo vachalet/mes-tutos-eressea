@@ -10,3 +10,4 @@ date: 2025-08-17
 ### Eressea Tutorials
 - [Tutoriel pour publier votre Eressea Tutorials  FR](./tuto_publication_fr.md)
 - [tutorial for Publishing your Eressea Tutorials EN](./tuto_publication_en.md)
+- [Anleitung zum Veröffentlichen Ihres Tutorials DE](./tuto_publication_de.md)
