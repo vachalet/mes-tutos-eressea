@@ -1,4 +1,8 @@
-# Schnellanleitung zum Veröffentlichen Ihres "Tutorials"
+---
+title: "Tuto gh"
+date: 2025-08-17
+---
+# Schnellanleitung zum Veröffentlichen Ihres „Tutorials"
 
 ## 📋 Überblick
 
@@ -32,6 +36,7 @@ date: 2023-10-15
 ```
 
 - Das **Datum** bestimmt die Anzeigereihenfolge auf Ihrer Seite
+- Ich habe das Datum der Runden-Generierung eingesetzt. (also cr oder nr)
 - Für Intro/Fazit: Passen Sie das Datum für die richtige Positionierung an
 
 ### 1.3 Formatierungsregeln
@@ -54,7 +59,7 @@ Falls noch nicht geschehen: https://github.com
 ### 2.2 Das Repository forken
 
 1. **Gehen Sie zu:** https://github.com/eressea/tutorials
-2. **Klicken Sie auf:** "Fork"-Button (oben rechts)
+2. **Klicken Sie auf:** „Fork"-Button (oben rechts)
 3. **Wählen Sie:** Ihr persönliches Konto
 4. **Warten Sie auf:** die Fork-Erstellung
 
@@ -68,7 +73,7 @@ Falls noch nicht geschehen: https://github.com
 
 ![GitHub Pages](./tuto2.png "GitHub Pages")
 
-**💡 Hinweis:** Für spätere Synchronisation → "Sync fork"-Button
+**💡 Hinweis:** Für spätere Synchronisation → „Sync fork"-Button
 
 **⚠️ Berühren Sie nicht den gh-pages-Branch** Er dient zur Veröffentlichung Ihrer Seiten.
 
@@ -84,7 +89,7 @@ Falls noch nicht geschehen: https://github.com
 
 1. **Authentifizierung:** über Ihren Browser
 2. **Klonen:** Wählen Sie Ihr Repository
-3. **Klicken Sie:** "Clone vachalet/tutorials"
+3. **Klicken Sie:** „Clone your_account/tutorials"
 4. **Standardordner:** `C:\Users\<IhrBenutzername>\Documents\GitHub\tutorials`
 
 ### 3.3 Ihre Dateien organisieren
@@ -100,12 +105,12 @@ Falls noch nicht geschehen: https://github.com
 #### Commit (speichern)
 1. **Wählen Sie:** Dateien zum Committen aus
 2. **Schreiben Sie:** kurze Beschreibung der Änderungen
-3. **Klicken Sie:** "Commit * files to main"
+3. **Klicken Sie:** „Commit * files to main"
 
 #### Push (senden)
 ![Push Request](./tuto4.png "Push Request")
 
-**Klicken Sie:** "Push origin" um zu GitHub zu senden
+**Klicken Sie:** „Push origin" um zu GitHub zu senden
 
 ---
 
@@ -121,15 +126,15 @@ Falls noch nicht geschehen: https://github.com
 
 #### ✅ Ihren Fork synchronisieren
 - **Überprüfen Sie:** ob Ihr Fork aktuell ist
-- **Falls nötig:** verwenden Sie "Sync fork"
+- **Falls nötig:** verwenden Sie „Sync fork"
 
 ### 4.2 Eine Pull Request erstellen
 
 #### Wenn alles bereit ist:
 ![Pull Request](./tuto5.png "Pull Request")
 
-1. **Gehen Sie zu:** "Pull Request"
-2. **Klicken Sie:** "New Pull Request"
+1. **Gehen Sie zu:** „Pull Request"
+2. **Klicken Sie:** „New Pull Request"
 3. **Überprüfen Sie:** alles was vorgeschlagen wird
 4. **Kommentieren Sie:** erklären Sie Ihre Änderungen
 5. **Bestätigen Sie:** senden Sie die Anfrage
