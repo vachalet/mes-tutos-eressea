@@ -37,6 +37,7 @@ date: 2023-10-15
 ```
 
 - The **date** determines the display order on your page
+- Use cr date
 - For intro/conclusion: adjust the date for proper positioning
 
 ### 1.3 Formatting rules
