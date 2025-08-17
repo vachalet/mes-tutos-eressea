@@ -36,6 +36,7 @@ date: 2023-10-15
 ```
 
 - La **date** détermine l'ordre d'affichage sur votre page
+- J'ai mis la date de génération du tour. (donc su cr ou nr)
 - Pour intro/conclusion : ajustez la date pour le bon positionnement
 
 ### 1.3 Règles de formatage
