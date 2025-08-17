@@ -90,7 +90,7 @@ Si ce n'est pas déjà fait : https://github.com
 
 1. **Authentification :** via votre navigateur
 2. **Cloner :** sélectionner votre repository
-3. **Cliquer :** "Clone vachalet/tutorials"
+3. **Cliquer :** "Clone votre_compte/tutorials"
 4. **Dossier par défaut :** `C:\Users\<YourUserName>\Documents\GitHub\tutorials`
 
 ### 3.3 Organiser vos fichiers
