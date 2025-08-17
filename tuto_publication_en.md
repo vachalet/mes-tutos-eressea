@@ -47,7 +47,7 @@ date: 2023-10-15
 - **Images:** format `![alt](./image.png "title")`
 
 **Useful resources:**
-- [Discord Enno](https://discord.com/channels/509396702663278592/1193551778952781846/1404064429024346177)
+- [Discord](https://discord.com/channels/509396702663278592/1193551778952781846/1404064429024346177)
 - [Goblins Example](https://eressea.github.io/tutorials/goblins/)
 
 ---
