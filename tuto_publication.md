@@ -68,9 +68,7 @@ Si ce n'est pas déjà fait : https://github.com
 
 **💡 Note :** Pour synchroniser plus tard → bouton "Sync fork"
 
-#### Ne touchez pas à la brache gh-pages
-
-Elle sert à publier vos pages.
+**⚠️ Ne touchez pas à la brache gh-pages** Elle sert à publier vos pages.
 
 
 ---
